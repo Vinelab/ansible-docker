@@ -12,7 +12,7 @@ git submodule add git@github.com:Vinelab/ansible-docker roles/docker
 Or simply clone this repository directly into your *roles* directory:
 
 ```
-git clone git@github.com:Vinelab/ansible-docker roles
+git clone git@github.com:Vinelab/ansible-docker roles/docker
 ```
 
 ### Usage
