@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Vilmos Nebehaj
+  description: Role that installs Docker for Centos / RHEL.
+  license: MIT
+  min_ansible_version: 1.2
+  platforms:
+  - name: EL
+    versions:
+    - 6
+    - 7
+  categories:
+  - docker
+  - development
+  - packaging
+  - system
+dependencies: []
